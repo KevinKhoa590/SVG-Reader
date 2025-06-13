@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  SVGCircle.cpp
+  SVGDemo.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGCircle.cpp(16,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGCircle.cpp')
+  
+  SVGEllipse.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGEllipse.cpp(16,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGEllipse.cpp')
+  
+  SVGLine.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGLine.cpp(13,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGLine.cpp')
+  
+  SVGParser.cpp
+  SVGPolygon.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolygon.cpp(16,53): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+  (compiling source file '/SVGPolygon.cpp')
+  
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolygon.cpp(18,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGPolygon.cpp')
+  
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolygon.cpp(19,51): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+  (compiling source file '/SVGPolygon.cpp')
+  
+  SVGPolyline.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolyline.cpp(16,53): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+  (compiling source file '/SVGPolyline.cpp')
+  
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolyline.cpp(18,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGPolyline.cpp')
+  
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGPolyline.cpp(19,49): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+  (compiling source file '/SVGPolyline.cpp')
+  
+  SVGRect.cpp
+C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\SVGDemo\SVGRect.cpp(16,27): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  (compiling source file '/SVGRect.cpp')
+  
+  SVGText.cpp
+  Generating Code...
+  SVGDemo.vcxproj -> C:\Users\Home\Downloads\DemoProjectTEST\SVGDemo\x64\Debug\SVGDemo.exe
